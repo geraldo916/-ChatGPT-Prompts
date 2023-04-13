@@ -71,3 +71,11 @@ requisitos de aplicativos da web}.
 [1, 1, 1, 1, 1, 1, 1], [1, 1, 1, 1, 1, 1, 1], [1, 1, 1, 0, 0, 0, 1], [1, 1, 1, 0, 0, 0, 1], [1, 1, 1, 1, 1, 1, 1], [1,
 1, 1, 1, 1, 1, 1], [1, 1, 1, 1, 1, 1, 1], [1, 1, 1, 1, 1, 1, 1] ]
 
+## Contribuindo
+
+Se você tiver alguma pergunta ou sugestão para adicionar a esta lista, fique à vontade para criar um pull request. Lembre-se de seguir as regras de contribuição do projeto.
+
+## Licença
+
+Este repositório é licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais informações.
+
